@@ -1,0 +1,9 @@
+# Ignoriere große Datenordner
+data/
+
+# macOS Systemdateien
+.DS_Store
+
+# Python Cache-Dateien
+__pycache__/
+*.pyc
